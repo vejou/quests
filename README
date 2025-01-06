@@ -1,4 +1,6 @@
-quests 1.1
+quests 2
+
+modified from quests 1.1 by TeTpaAka ( https://github.com/TeTpaAka/quests ) and relicensed to MIT license.
 
 quests is a simple quest framework for minetest that lets you define your own quests and handels the representation.
 
@@ -7,9 +9,10 @@ intllib (optional)
 unified_inventory or inventory_plus (optional)
 central_message (optional)
 
-License: WTFPL
-Sounds: CC-BY
-Textures: CC-BY
+License: MIT (see LICENSE.txt)
+Sounds license: CC-BY
+Textures license: CC-BY
+Sounds and textures from TeTpaAka ( https://github.com/TeTpaAka/ )
 
 -------------------------------------------------------------------------------
 
